@@ -1,0 +1,6 @@
+[submodule "externals/herp"]
+	path = externals/herp
+	url = git@github.com:cadsit/herp
+[submodule "externals/durr"]
+	path = externals/durr
+	url = git@github.com:cadsit/durr
